@@ -1,0 +1,42 @@
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+.name{
+    background-color: rgb(169, 231, 212);
+    width:500px;
+    height: 100px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin:10px auto;
+    padding:30px 0px 0px 0px;
+    border:4px solid rgb(98, 242, 62);
+    border-radius: 6px;
+}
+.card{
+    background-color: rgb(220, 234, 235);
+    width:800px;
+    height: 900px;
+    font-size: 40px;
+    text-align: center;
+    margin:10px auto;
+    padding:30px 0px 0px 0px;
+    border:2px solid rgb(26, 255, 0);
+    border-radius: 6px;
+    padding:20px;
+}
+.img{
+    width:100%;
+    height:650px;
+    background-image:url("https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/254111420_3220209148200460_767735502789739121_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=u1sdKEMj0HEAX_T2fLS&tn=6GPPMpdNHSoAUnLU&_nc_ht=scontent.fhan17-1.fna&oh=00_AT8vw0tDwsN93CAP4io8mXKmlixkLnHrd0TJgS5O_Jg5PQ&oe=6332F0A1");
+}
+.link{
+    width:500px;
+    height: 100px;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin:10px auto;
+    padding:30px 0px 0px 0px; 
+}
